@@ -1,0 +1,232 @@
+{
+    "area": {
+        "id": 2224,
+        "name": "Spain",
+        "code": "ESP",
+        "flag": "https://crests.football-data.org/760.svg"
+    },
+    "id": 90,
+    "name": "Real Betis Balompié",
+    "shortName": "Real Betis",
+    "tla": "BET",
+    "crest": "https://crests.football-data.org/90.png",
+    "address": "Avenida de Heliópolis, s/n Sevilla 41012",
+    "website": "http://www.realbetisbalompie.es",
+    "founded": 1907,
+    "clubColors": "Green / White",
+    "venue": "Estadio Benito Villamarín",
+    "runningCompetitions": [
+        {
+            "id": 2014,
+            "name": "Primera Division",
+            "code": "PD",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/PD.png"
+        },
+        {
+            "id": 2146,
+            "name": "UEFA Europa League",
+            "code": "EL",
+            "type": "CUP",
+            "emblem": "https://crests.football-data.org/EL.png"
+        }
+    ],
+    "coach": {
+        "id": 11630,
+        "firstName": "Manuel",
+        "lastName": "Pellegrini",
+        "name": "Manuel Pellegrini",
+        "dateOfBirth": "1953-09-16",
+        "nationality": "Chile",
+        "contract": {
+            "start": null,
+            "until": null
+        }
+    },
+    "squad": [
+        {
+            "id": 7879,
+            "name": "Claudio Bravo",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1983-04-13",
+            "nationality": "Chile"
+        },
+        {
+            "id": 32014,
+            "name": "Rui Silva",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1994-02-07",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 32190,
+            "name": "Daniel Martín",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1998-07-08",
+            "nationality": "Spain"
+        },
+        {
+            "id": 16,
+            "name": "Andrés Guardado",
+            "position": "Defence",
+            "dateOfBirth": "1986-09-28",
+            "nationality": "Mexico"
+        },
+        {
+            "id": 1772,
+            "name": "Germán Pezzella",
+            "position": "Defence",
+            "dateOfBirth": "1991-06-27",
+            "nationality": "Argentina"
+        },
+        {
+            "id": 2071,
+            "name": "Luiz Felipe",
+            "position": "Defence",
+            "dateOfBirth": "1997-03-22",
+            "nationality": "Italy"
+        },
+        {
+            "id": 3624,
+            "name": "Youssouf Sabaly",
+            "position": "Defence",
+            "dateOfBirth": "1993-03-05",
+            "nationality": "Senegal"
+        },
+        {
+            "id": 32123,
+            "name": "Alex Moreno",
+            "position": "Defence",
+            "dateOfBirth": "1993-06-08",
+            "nationality": "Spain"
+        },
+        {
+            "id": 32491,
+            "name": "Juan Miranda",
+            "position": "Defence",
+            "dateOfBirth": "2000-01-19",
+            "nationality": "Spain"
+        },
+        {
+            "id": 33045,
+            "name": "Aitor Ruibal",
+            "position": "Defence",
+            "dateOfBirth": "1996-03-22",
+            "nationality": "Spain"
+        },
+        {
+            "id": 33106,
+            "name": "Víctor Ruíz",
+            "position": "Defence",
+            "dateOfBirth": "1989-01-25",
+            "nationality": "Spain"
+        },
+        {
+            "id": 33139,
+            "name": "Martín Montoya",
+            "position": "Defence",
+            "dateOfBirth": "1991-04-14",
+            "nationality": "Spain"
+        },
+        {
+            "id": 58580,
+            "name": "Édgar González",
+            "position": "Defence",
+            "dateOfBirth": "1997-04-01",
+            "nationality": "Spain"
+        },
+        {
+            "id": 18,
+            "name": "Joaquín",
+            "position": "Midfield",
+            "dateOfBirth": "1981-07-21",
+            "nationality": "Spain"
+        },
+        {
+            "id": 25,
+            "name": "Canales",
+            "position": "Midfield",
+            "dateOfBirth": "1991-02-16",
+            "nationality": "Spain"
+        },
+        {
+            "id": 3250,
+            "name": "William Carvalho",
+            "position": "Midfield",
+            "dateOfBirth": "1992-04-07",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 8464,
+            "name": "Nabil Fekir",
+            "position": "Midfield",
+            "dateOfBirth": "1993-07-18",
+            "nationality": "France"
+        },
+        {
+            "id": 33040,
+            "name": "Víctor Camarasa",
+            "position": "Midfield",
+            "dateOfBirth": "1994-05-28",
+            "nationality": "Spain"
+        },
+        {
+            "id": 39104,
+            "name": "Guido Rodríguez",
+            "position": "Midfield",
+            "dateOfBirth": "1994-04-12",
+            "nationality": "Argentina"
+        },
+        {
+            "id": 81737,
+            "name": "Paul Akouokou",
+            "position": "Midfield",
+            "dateOfBirth": "1997-12-20",
+            "nationality": "Cote d'Ivoire"
+        },
+        {
+            "id": 2,
+            "name": "Juanmi",
+            "position": "Offence",
+            "dateOfBirth": "1993-05-20",
+            "nationality": "Spain"
+        },
+        {
+            "id": 8,
+            "name": "Willian José",
+            "position": "Offence",
+            "dateOfBirth": "1991-11-23",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 32056,
+            "name": "Borja Iglesias",
+            "position": "Offence",
+            "dateOfBirth": "1993-01-17",
+            "nationality": "Spain"
+        },
+        {
+            "id": 33050,
+            "name": "Loren",
+            "position": "Offence",
+            "dateOfBirth": "1993-12-30",
+            "nationality": "Spain"
+        },
+        {
+            "id": 142393,
+            "name": "Salomón Rodríguez",
+            "position": "Offence",
+            "dateOfBirth": "2000-02-16",
+            "nationality": "Spain"
+        },
+        {
+            "id": 145539,
+            "name": "Luiz Henrique",
+            "position": "Offence",
+            "dateOfBirth": "2001-01-02",
+            "nationality": "Brazil"
+        }
+    ],
+    "staff": [],
+    "lastUpdated": "2022-05-03T08:22:26Z"
+}
